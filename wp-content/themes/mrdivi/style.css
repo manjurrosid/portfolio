@@ -1,0 +1,74 @@
+/*
+CTC Separate Stylesheet
+Updated: 2021-09-30 04:02:00
+Theme Name: MR Divi
+Theme URI: http://www.behance.net/manjurrosid
+Template: Divi
+Author: Manjur Rosid
+Author URI: http://www.facebook.com/devmanjurr
+Description: manjurrosid | web designer | wp expert | divi specialist
+Version: 4.10.8.1632974520
+Tags: divi, child theme, divi-child, manjurrosid, mrk, divi-expert
+*/
+/*portfolio image aspect ratio portrait 3:4*/
+
+.pa-portfolio-image-3-4 .et_portfolio_image {
+  padding-top: 133.33%;
+  display: block;
+}
+
+.pa-portfolio-image-3-4 .et_portfolio_image img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  object-fit: cover;
+}
+/*move title to center*/
+.lwp-title-portfolio h2.et_pb_module_header {
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    margin-top: 0px!important;
+    z-index: 3;
+    opacity: 0;     /*hides title when not hovered*/
+}
+ 
+/*make title visible on hover*/
+.lwp-title-portfolio .et_pb_portfolio_item:hover h2.et_pb_module_header {
+    opacity: 1;
+}
+ 
+/*Removes the icon*/
+.lwp-title-portfolio span.et_overlay:before {
+    content: '';
+}
+ 
+/*fix for overlay not showing when you hover over the title*/
+.lwp-title-portfolio .et_pb_portfolio_item:hover span.et_overlay {
+    opacity: 1;
+    z-index: 3;
+}
+/*scroll effect*/
+.et_pb_portfolio_item{
+  height: 300px;
+overflow: hidden;
+  /* box-shadow: 0px 10px 10px #00000040;
+  border-radius: 10px; */
+
+}
+.et_pb_filterable_portfolio_1.et_pb_filterable_portfolio .et_pb_portfolio_filter a{
+ margin-right: 2px;
+  border: 0px;
+}
+.et_pb_filterable_portfolio_1.et_pb_filterable_portfolio .et_pb_portfolio_filter a:hover{
+  background-color: #ff6d1d;
+  border-radius: 20px;
+}
+

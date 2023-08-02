@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xd to wordpress &#8211; Manjur Rosid</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Divi Specialist Web Designer &#38; Developer</description>
+	<lastBuildDate>Wed, 05 Oct 2022 10:12:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Car rental website PSD to wordpress design with Elementor</title>
+		<link>./../../../project/car-rental-website-psd-to-wordpress-design-with-elementor/index.html</link>
+					<comments>./../../../project/car-rental-website-psd-to-wordpress-design-with-elementor/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[manjurrosid]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 14:34:28 +0000</pubDate>
+				<guid isPermaLink="false">https://www.manjurr.dev/?post_type=project&#038;p=701</guid>
+
+					<description><![CDATA[This is my first job in wordpress website design &#38; development, I&#8217;ve designed this website design with Elementor free version. client&#8217;s requirement was to develop 100% the same as the PSD file design. A car rental website is an online service that connects people with car rental companies through their websites. The site will allow [&#8230;]]]></description>
+		
+					<wfw:commentRss>./../../../project/car-rental-website-psd-to-wordpress-design-with-elementor/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

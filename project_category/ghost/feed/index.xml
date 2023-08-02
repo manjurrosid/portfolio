@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ghost &#8211; Manjur Rosid</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Divi Specialist Web Designer &#38; Developer</description>
+	<lastBuildDate>Sat, 15 Oct 2022 06:07:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Emotional mastery blogging website design using Krabi ghost theme</title>
+		<link>./../../../project/design-and-development-of-the-emotional-mastery-blogging-website-using-the-ghost-and-krabi-theme/index.html</link>
+					<comments>./../../../project/design-and-development-of-the-emotional-mastery-blogging-website-using-the-ghost-and-krabi-theme/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[manjurrosid]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 06:35:10 +0000</pubDate>
+				<guid isPermaLink="false">https://www.manjurr.dev/?post_type=project&#038;p=713</guid>
+
+					<description><![CDATA[Theme: KrabiWebThemez.com created the free WordPress theme Krabi. It is a simple, contemporary, mobile-friendly, and retina-ready theme. Numerous features are included with it, including custom widgets, shortcodes, post formats, custom backgrounds, headers, footers, menus, sliders, color schemes, custom fonts, uploaders for custom logos, custom page layouts, sidebars, widget areas, etc. Design of Ghost Blog Website [&#8230;]]]></description>
+		
+					<wfw:commentRss>./../../../project/design-and-development-of-the-emotional-mastery-blogging-website-using-the-ghost-and-krabi-theme/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

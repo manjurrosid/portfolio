@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fashion shop &#8211; Manjur Rosid</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Divi Specialist Web Designer &#38; Developer</description>
+	<lastBuildDate>Tue, 04 Jul 2023 06:14:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Shopify to woocommerce website migration &#038; redesign with Divi theme</title>
+		<link>./../../../project/shopify-to-woocommerce-website-migration-redesign-with-divi-theme/index.html</link>
+					<comments>./../../../project/shopify-to-woocommerce-website-migration-redesign-with-divi-theme/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[manjurrosid]]></dc:creator>
+		<pubDate>Sun, 02 Jul 2023 00:07:11 +0000</pubDate>
+				<guid isPermaLink="false">https://www.manjurr.dev/?post_type=project&#038;p=1781</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>./../../../project/shopify-to-woocommerce-website-migration-redesign-with-divi-theme/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Clothing brand fashion shop wordpress ecommerce website</title>
+		<link>./../../../project/clothing-brand-fashion-shop-wordpress-ecommerce-website/index.html</link>
+					<comments>./../../../project/clothing-brand-fashion-shop-wordpress-ecommerce-website/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[manjurrosid]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 09:51:24 +0000</pubDate>
+				<guid isPermaLink="false">https://www.manjurr.dev/?post_type=project&#038;p=750</guid>
+
+					<description><![CDATA[Quick View]]></description>
+		
+					<wfw:commentRss>./../../../project/clothing-brand-fashion-shop-wordpress-ecommerce-website/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
